@@ -1,0 +1,17 @@
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitServer.exe
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitServer.deps.json
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitServer.runtimeconfig.json
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitServer.dll
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitServer.pdb
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.csproj.AssemblyReference.cache
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.AssemblyInfoInputs.cache
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.AssemblyInfo.cs
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitSe.5968B80A.Up2Date
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.dll
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\refint\RabbitServer.dll
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.pdb
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\RabbitServer.genruntimeconfig.cache
+C:\Users\Yousef\source\repos\RabbitMQdemo\RabbitServer\obj\Debug\net8.0\ref\RabbitServer.dll
